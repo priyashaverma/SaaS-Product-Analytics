@@ -1,8 +1,5 @@
 # SaaS Product Analytics & Churn Prediction Project 🚀
 
-### 💼 By: [Your Name]  
-### 🔗 [LinkedIn Profile] | 🔗 [Portfolio Link]
-
 ---
 
 ## Project Overview
